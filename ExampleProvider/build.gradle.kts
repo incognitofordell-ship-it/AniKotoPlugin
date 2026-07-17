@@ -1,7 +1,7 @@
 version = 1
 
 cloudstream {
-    authors = listOf("YourName")
+    authors = listOf("incognitofordell-ship-it")
     description = "AniKoto Anime Provider via API"
     language = "en"
     status = 1 // 1 = Stable
