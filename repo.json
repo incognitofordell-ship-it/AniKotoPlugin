@@ -1,0 +1,8 @@
+{
+  "name": "Anikototv",
+  "description": "AnikotoTv",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/incognitofordell-ship-it/TestPlugins/BRANCH/plugins.json"
+  ]
+}   
